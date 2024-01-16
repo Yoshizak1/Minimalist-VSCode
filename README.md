@@ -7,3 +7,4 @@ Extensões VSCode | Yoshizaki 2024
 - Live Server
 - Min Theme
 - Symbols
+- Figma
