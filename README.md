@@ -8,3 +8,4 @@ Extensões VSCode | Yoshizaki 2024
 - Min Theme
 - Symbols
 - Figma
+- Prettier
